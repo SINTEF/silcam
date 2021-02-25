@@ -1,2 +1,3 @@
 # silcam
-repo for silcam pages
+
+This is a repo for the silcam pages site
